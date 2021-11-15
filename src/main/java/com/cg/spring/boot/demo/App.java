@@ -15,6 +15,5 @@ public class App {
 		LOG.info("Start");
 		SpringApplication.run(App.class);
 		LOG.info("End");
-
 	}
 }
